@@ -2,6 +2,9 @@
 linux-formula
 =============
 
+.. image:: https://api.flattr.com/button/flattr-badge-large.png
+    :target: https://flattr.com/submit/auto?user_id=bechtoldt&url=https%3A%2F%2Fgithub.com%2Fbechtoldt%2Fsaltstack-linux-formula
+
 Salt Stack Formula to set up and configure Linux, an operating system kernel
 
 NOTICE BEFORE YOU USE
@@ -58,7 +61,8 @@ Salt Compatibility
 
 Tested with:
 
-* 2014.1.4
+* 2014.1
+* 2014.7
 
 OS Compatibility
 ================
